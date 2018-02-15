@@ -1,0 +1,23 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "simple react redux project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkeeber/react-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Tom Keeber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkeeber/react-redux/issues"
+  },
+  "homepage": "https://github.com/tkeeber/react-redux#readme"
+}
